@@ -30,7 +30,7 @@ Data was cleaned and analyzed using **SQL**, and an interactive dashboard was bu
 ---
 
 ## 📂 Folder Structure  
-GenAI-Usage-Analytics/
+GenAI-Usage-Dashboard/
 │
 ├── data/
 │ ├── genai_usage_raw.csv
